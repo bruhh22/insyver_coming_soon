@@ -34,7 +34,7 @@ const Hero = () => {
             {/* Bright Tech Background */}
             <motion.div style={{ y: y1 }} className="absolute inset-0 z-0">
                 <img
-                    src="https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=2069&auto=format&fit=crop"
+                    src="/main-coming-soon-photo.jpg"
                     alt="Modern Bright Office Infrastructure"
                     className="w-full h-full object-cover opacity-90"
                 />
