@@ -22,12 +22,12 @@ const Logo = () => {
                     Insyver Technologies
                 </h1>
                 {/* <div className="flex flex-col leading-none mt-1"> */}
-                <span className="-mt-2 text-[10px] md:text-xs font-bold tracking-wide font-joly-text text-slate-600">
+                <span className="-mt-1 text-[10px] md:text-xs font-bold tracking-wide font-joly-text text-slate-600">
                     (OPC) Pvt. Ltd.
                 </span>
-                <span className=" text-[9px] md:text-[10px] font-bold tracking-widest uppercase font-old-standard text-blue-600">
+                {/* <span className=" text-[9px] md:text-[10px] font-bold tracking-widest uppercase font-old-standard text-blue-600">
                     An ICT Infrastructure Company
-                </span>
+                </span> */}
                 {/* </div> */}
             </div>
         </div>

@@ -76,7 +76,7 @@ const Footer = () => {
                             <h4 className="font-old-standard font-bold text-xl text-slate-900 leading-tight">
                                 Insyver Technologies
                             </h4>
-                            <p className="font-joly text-slate-500 text-sm">
+                            <p className="-mt-1 font-joly text-slate-500 text-sm">
                                 (OPC) Pvt. Ltd.
                             </p>
                         </div>
@@ -88,7 +88,7 @@ const Footer = () => {
                 </div>
 
                 <div className="border-t border-slate-100 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-slate-400 ">
-                    <p>&copy; 2025 Insyver Technologies. All rights reserved.</p>
+                    <p>&copy; 2025 Insyver Technologies. (OPC) Pvt. Ltd. All rights reserved.</p>
                     <div className="flex gap-6 mt-4 md:mt-0">
                         <a href="#" className="hover:text-slate-600">Privacy Policy</a>
                         <a href="#" className="hover:text-slate-600">Terms of Service</a>
